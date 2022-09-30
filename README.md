@@ -1,5 +1,9 @@
 # Interactive HR Analysis Dashboard with PowerBi
 Data analysis on Human Resource data
 
-##Tools
-Power Bi
+## Installating
+#1 Inatall PowerBi desktop from Microsoft store
+#2 Clone this repo
+
+## Loading
+Open file with PowerBi
